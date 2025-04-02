@@ -11,7 +11,6 @@ namespace first
         static void Main(string[] args)
         {
             Console.WriteLine("hi every one");
-            Console.WriteLine("Hello World");
             Console.WriteLine("\n\a\a"); 
             Console.WriteLine("\t$$$$$$$$$$");
             Console.ReadKey();
